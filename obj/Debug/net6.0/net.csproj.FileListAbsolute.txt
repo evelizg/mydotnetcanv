@@ -1,0 +1,2 @@
+C:\apps\net\bin\Debug\net6.0\net.exe
+C:\apps\net\bin\Debug\net6.0\net.dll

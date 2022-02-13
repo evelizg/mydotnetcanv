@@ -1,0 +1,7 @@
+C:\apps\net\bin\Release\net6.0\publish\net.exe
+C:\apps\net\bin\Release\net6.0\publish\appsettings.Development.json
+C:\apps\net\bin\Release\net6.0\publish\appsettings.json
+C:\apps\net\bin\Release\net6.0\publish\net.dll
+C:\apps\net\bin\Release\net6.0\publish\net.deps.json
+C:\apps\net\bin\Release\net6.0\publish\net.runtimeconfig.json
+C:\apps\net\bin\Release\net6.0\publish\net.pdb
